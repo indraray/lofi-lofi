@@ -11,7 +11,7 @@ const Navbar = () => {
    return (
       <>
       <header>   
-         <img src='./white-logo.png' alt="" />
+         <img src='' alt="" />
 
          <nav className="nav-links">
             <ul className="max-width-links">
